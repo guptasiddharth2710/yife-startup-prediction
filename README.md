@@ -56,4 +56,4 @@ Raw data is not included due to licensing restrictions.
 
 ## Citation
 If you use this work, please cite:
-> Gupta, S. et al. (2025). Predicting Early-Stage Startup Success Using ML: A YC-Inspired Feature Engineering Approach. PTEMS Conference.
+> Gupta, S. et al. (2025). Predicting Early-Stage Startup Success Using ML: A YC-Inspired Feature Engineering Approach. Accepted at INTERNATIONAL CONFERENCE ON PROGRESSIVE TRENDS IN ENGINEERING, MANAGEMENT & SCIENCE (PTEMS-2026).
